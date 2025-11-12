@@ -1,13 +1,3 @@
-# 🌳 Árvores Binárias e Recursividade
-
-*Disciplina:* Estrutura de Dados  
-*Professor:* Prof. Anderson Soares  
-*Valor:* 2,0 pontos  
-*Entrega:* até 11/05  
-*Formato de entrega:* Repositório no GitHub  
-
----
-
 ## 🎯 Objetivo
 
 Este trabalho tem como finalidade compreender e aplicar o conceito de *recursividade* por meio da construção de uma *Árvore Binária de Busca (Binary Search Tree - BST)* utilizando a linguagem *Java*.  
